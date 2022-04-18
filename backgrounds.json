@@ -13,7 +13,8 @@
     {
       "previewUrl": "https://raw.githubusercontent.com/Scra3/sanitary_pass_converter_configurations/main/images/cat-preview.jpg",
       "backgroundUrl": "https://raw.githubusercontent.com/Scra3/sanitary_pass_converter_configurations/main/images/cat.jpg",
-      "color": "black"
+      "color": "black",
+      "y": 52.0
     }
   ]
 }
