@@ -6,27 +6,8 @@
       "color": "black"
     },
     {
-      "previewUrl": "https://www.monchat.ca/wp-content/uploads/2020/02/fond-ecran-noir-avec-un-visage-de-chat-noir-576x1024.jpg?ezimgfmt=ng:webp/ngcb1",
-      "backgroundUrl": "https://www.monchat.ca/wp-content/uploads/2020/02/fond-ecran-noir-avec-un-visage-de-chat-noir-576x1024.jpg?ezimgfmt=ng:webp/ngcb1",
-      "color": "white",
-      "x": 10.0,
-      "y": 100.0
-    },
-    {
-      "previewUrl": "https://preview.redd.it/gdsbdf97ihq31.png?width=640&crop=smart&auto=webp&s=fcb5c1ed83c93580a4ddf97de06b7c606dd7d359",
-      "backgroundUrl": "https://preview.redd.it/gdsbdf97ihq31.png?width=640&crop=smart&auto=webp&s=fcb5c1ed83c93580a4ddf97de06b7c606dd7d359",
-      "color": "white",
-      "x": 50.0,
-      "y": 10.0
-    },
-    {
-      "previewUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy9xUYYvjBiZ56Pdasc4c4M8ha-Mq-tILKg&usqp=CAU",
-      "backgroundUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAy9xUYYvjBiZ56Pdasc4c4M8ha-Mq-tILKg&usqp=CAU",
-      "color": "white"
-    },
-    {
-      "previewUrl": "https://w0.peakpx.com/wallpaper/112/413/HD-wallpaper-happy-smile-black-yellow.jpg",
-      "backgroundUrl": "https://w0.peakpx.com/wallpaper/112/413/HD-wallpaper-happy-smile-black-yellow.jpg",
+      "previewUrl": "https://raw.githubusercontent.com/Scra3/sanitary_pass_converter_configurations/main/images/coeur-preview.jpg",
+      "backgroundUrl": "https://raw.githubusercontent.com/Scra3/sanitary_pass_converter_configurations/main/images/coeur.jpg",
       "color": "black"
     }
   ]
