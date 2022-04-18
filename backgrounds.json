@@ -9,6 +9,11 @@
       "previewUrl": "https://raw.githubusercontent.com/Scra3/sanitary_pass_converter_configurations/main/images/coeur-preview.jpg",
       "backgroundUrl": "https://raw.githubusercontent.com/Scra3/sanitary_pass_converter_configurations/main/images/coeur.jpg",
       "color": "black"
+    },
+    {
+      "previewUrl": "https://raw.githubusercontent.com/Scra3/sanitary_pass_converter_configurations/main/images/cat-preview.jpg",
+      "backgroundUrl": "https://raw.githubusercontent.com/Scra3/sanitary_pass_converter_configurations/main/images/cat.jpg",
+      "color": "black"
     }
   ]
 }
