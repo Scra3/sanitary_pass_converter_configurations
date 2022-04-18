@@ -1,11 +1,9 @@
 {
   "backgrounds": [
     {
-      "previewUrl": "https://i.stack.imgur.com/LOwyR.png",
-      "backgroundUrl": "https://i.stack.imgur.com/LOwyR.png",
-      "color": "black",
-      "x": 10.0,
-      "y": 10.0
+      "previewUrl": "https://raw.githubusercontent.com/Scra3/sanitary_pass_converter_configurations/main/images/smiley.jpg",
+      "backgroundUrl": "https://raw.githubusercontent.com/Scra3/sanitary_pass_converter_configurations/main/images/smiley.jpg",
+      "color": "black"
     },
     {
       "previewUrl": "https://www.monchat.ca/wp-content/uploads/2020/02/fond-ecran-noir-avec-un-visage-de-chat-noir-576x1024.jpg?ezimgfmt=ng:webp/ngcb1",
