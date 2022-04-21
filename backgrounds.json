@@ -15,12 +15,6 @@
       "backgroundUrl": "https://raw.githubusercontent.com/Scra3/sanitary_pass_converter_configurations/main/images/cat.jpg",
       "color": "black",
       "y": 52.0
-    },
-    {
-      "previewUrl": "https://raw.githubusercontent.com/Scra3/sanitary_pass_converter_configurations/main/images/pecresse.png",
-      "backgroundUrl": "https://raw.githubusercontent.com/Scra3/sanitary_pass_converter_configurations/main/images/pecresse.png",
-      "color": "black",
-      "y": 80.0
     }
   ]
 }
